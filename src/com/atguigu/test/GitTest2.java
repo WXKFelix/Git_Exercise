@@ -9,5 +9,6 @@ public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("你的世界从现在开始！");
         System.out.println("younide shijie yiqiedouhenhao!");
+        System.out.println("这是从现在开始的一切！");
     }
 }
