@@ -8,5 +8,6 @@ package com.atguigu.test;
 public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("你的世界从现在开始！");
+        System.out.println("younide shijie yiqiedouhenhao!");
     }
 }
